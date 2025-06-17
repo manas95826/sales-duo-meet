@@ -1,0 +1,37 @@
+[00:00] Rajiv Bansal: Good morning, everyone. Let’s get started. I hope you all had a chance to look at the client feedback document I shared yesterday?
+
+[00:05] Tanya Sood: Yes, I went through it. Some of the UI concerns were quite valid.
+
+[00:08] Nikhil Reddy: Same here. Especially the confusion around the onboarding flow — we definitely need to simplify it.
+
+[00:13] Rajiv Bansal: Agreed. Tanya, can you take the lead on redesigning that segment?
+
+[00:17] Tanya Sood: Sure. I’ll create a wireframe by Thursday and loop in the design team for iterations.
+
+[00:22] Rajiv Bansal: Perfect. Nikhil, how’s the API integration going?
+
+[00:25] Nikhil Reddy: It’s in progress. We’ve completed 3 out of 5 endpoints. The auth layer had a few issues yesterday, but it’s resolved now.
+
+[00:32] Rajiv Bansal: Okay, great. Make sure you coordinate with QA once that’s done — they’ll start testing from Monday.
+
+[00:36] Nikhil Reddy: Will do.
+
+[00:38] Rajiv Bansal: Just to confirm, we’re still on track for the October 5th release, right?
+
+[00:42] Tanya Sood: From the design side, yes.
+
+[00:44] Nikhil Reddy: Dev-wise, should be fine unless any critical bug pops up.
+
+[00:48] Rajiv Bansal: Alright, let’s keep it tight. One last thing — I’ve scheduled a stakeholder demo for next Wednesday at 11 AM. Please mark your calendars.
+
+[00:56] Tanya Sood: Noted.
+
+[00:57] Nikhil Reddy: Got it.
+
+[00:58] Rajiv Bansal: Awesome. That’s all from my side. Ping me if anything comes up during the week. Thanks, all!
+
+[01:02] Tanya Sood: Thanks!
+
+[01:03] Nikhil Reddy: Thanks, bye!
+
+[01:04] Meeting ended.

@@ -1,0 +1,45 @@
+[00:00] Ananya Sharma: Hi everyone, can you all hear me clearly?
+
+[00:03] Ritesh Mehta: Yep, loud and clear.
+
+[00:04] Sneha Kulkarni: Yes, we can hear you.
+
+[00:06] Ananya Sharma: Great. Let’s quickly get started then. So the agenda today is to finalize the Q3 product roadmap and get updates from each team. We'll begin with the engineering team. Ritesh?
+
+[00:17] Ritesh Mehta: Sure. So on the dev front, the backend for the analytics module is 90% done. We're planning to push it to staging by Friday. The frontend team is currently integrating the dashboard widgets.
+
+[00:28] Ananya Sharma: Awesome. Any blockers?
+
+[00:30] Ritesh Mehta: Nothing major. There’s a minor API latency issue but we’re working with DevOps on that.
+
+[00:35] Ananya Sharma: Perfect. Sneha, any updates from marketing?
+
+[00:37] Sneha Kulkarni: Yes, we’ve finalized the launch campaign creatives. We’ll start A/B testing the landing pages next week. Also, influencer outreach has started — we’ve onboarded 4 new creators this week.
+
+[00:48] Ananya Sharma: That’s good progress. Make sure we track engagement metrics closely.
+
+[00:52] Sneha Kulkarni: Will do.
+
+[00:53] Ananya Sharma: Alright. Product side — Kunal couldn’t join today but he’s sent over the updated specs. I’ll share those in the chat now.
+
+[01:01] Ananya Sharma: (posts link) Please review these before EOD so we can send them to the dev team.
+
+[01:06] Ritesh Mehta: Got it.
+
+[01:07] Sneha Kulkarni: On it.
+
+[01:09] Ananya Sharma: Any other updates or concerns?
+
+[01:11] Ritesh Mehta: Just one thing — can we move the Friday sync to 4 PM instead of 3 PM?
+
+[01:14] Ananya Sharma: Works for me. Sneha?
+
+[01:15] Sneha Kulkarni: Fine by me too.
+
+[01:17] Ananya Sharma: Cool, I’ll update the calendar. If there’s nothing else, let’s wrap this up. Thanks everyone!
+
+[01:21] Ritesh Mehta: Thanks!
+
+[01:21] Sneha Kulkarni: Thank you!
+
+[01:22] Meeting ended.
