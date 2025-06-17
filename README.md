@@ -2,6 +2,13 @@
 
 A Node.js application that uses OpenAI's API to generate structured summaries from meeting text.
 
+# Demo
+
+
+https://github.com/user-attachments/assets/8409dbf7-fbe7-4248-a850-075f7bcfb0f0
+
+
+
 ## Setup
 
 1. Clone this repository
