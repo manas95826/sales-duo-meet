@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/8409dbf7-fbe7-4248-a850-075f7bcfb0f0
    node server.js
    ```
 2. Open your browser and navigate to `http://localhost:3000`
-3. Enter your meeting text in the textarea (You can find sample1.txt and sample2.txt in the files to test) and click "Process Meeting"
+3. Enter your meeting text in the textarea (You can find [sample1.txt](https://github.com/manas95826/sales-duo-meet/blob/main/sample1.txt) and [sample2.txt](https://github.com/manas95826/sales-duo-meet/blob/main/sample2.txt) in the files to test) and click "Process Meeting"
 
 ## Features
 
