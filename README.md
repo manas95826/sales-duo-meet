@@ -28,11 +28,11 @@ https://github.com/user-attachments/assets/8409dbf7-fbe7-4248-a850-075f7bcfb0f0
    node server.js
    ```
 2. Open your browser and navigate to `http://localhost:3000`
-3. Enter your meeting text in the textarea and click "Process Meeting"
+3. Enter your meeting text in the textarea (You can find sample1.txt and sample2.txt in the files to test) and click "Process Meeting"
 
 ## Features
 
-- Processes meeting text using OpenAI's GPT-3.5 model
+- Processes meeting text using OpenAI's GPT-3.5 model (Deprectaed now tho,can be changed)
 - Generates structured summaries including:
   - Meeting overview
   - Key decisions
